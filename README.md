@@ -1,6 +1,4 @@
-# ESM267-Web
-
-# Feasability Map of Zaca Fire Big Cone Stands 
+# ESM267-Web: Feasability Map of Zaca Fire Big Cone Stands 
 
 Big cone (Pseudotsuga macrocarpa) is an endemic conifer to southern California. Many stands were devistaed by the 2007 Zaca Fire, which was the second largest fire in state history at the time. The Big Cone project, funded by USFS, is tasked with creating a restoration experiment to try and improve outplanting success, which is currently at 5% suvivorship. Part of this is finding stands within the Zaca scar that are 1. feasible for the field crew to safely and easily access adn 2. suitable for outplanting. 
 
